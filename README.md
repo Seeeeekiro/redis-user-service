@@ -2,7 +2,7 @@
 
 面向用户资料管理的后端练习，在注册登录之外实现联表查询、分页与 Redis 缓存，重点展示“查数据库、写入缓存、数据变更后失效”的处理过程。
 
-> 仓库地址保留为 `Seeeeekiro/5`；这是学习实践项目，功能范围以源码为准。
+> 仓库地址：`Seeeeekiro/redis-user-service`；这是学习实践项目，功能范围以源码为准。
 
 ## 已实现功能
 
@@ -36,7 +36,7 @@ src/main/java/com/stu/helloserver/
 ### 1. 获取项目
 
 ```bash
-git clone https://github.com/Seeeeekiro/5.git
+git clone https://github.com/Seeeeekiro/redis-user-service.git
 cd 5
 ```
 
